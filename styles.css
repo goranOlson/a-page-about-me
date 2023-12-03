@@ -26,6 +26,16 @@ main {
     top: 52px;
 }
 
+footer {
+    padding: 8px;
+    padding-inline: 16px;
+
+    background-color: #888;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
 section {
       margin-bottom: 40px;
 }
